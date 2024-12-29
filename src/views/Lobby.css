@@ -1,0 +1,13 @@
+main {
+    margin: 1rem;
+  }
+  
+  input {
+    margin-left: 0.5rem;
+    width: 60px;
+  }
+  button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+  }
+  
